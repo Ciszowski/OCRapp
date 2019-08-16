@@ -1,0 +1,13 @@
+.container{
+    height: 100%;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+}
+.contain{
+    flex-flow: column wrap;
+    display: flex;
+    margin: 5% auto;
+    justify-content: space-between
+
+}
